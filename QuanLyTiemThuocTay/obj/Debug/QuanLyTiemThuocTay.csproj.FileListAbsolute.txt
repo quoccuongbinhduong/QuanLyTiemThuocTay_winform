@@ -1,0 +1,154 @@
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.exe.config
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.exe
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.pdb
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csprojAssemblyReference.cache
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.Properties.Resources.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.GenerateResource.cache
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.CoreCompileInputs.cache
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.pdb
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmLogin.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmMain.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe.config
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Build.Framework.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Build.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Collections.Immutable.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Memory.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Numerics.Vectors.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Buffers.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\de\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\en\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\es\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\it\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.CopyComplete
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLNV.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe.licenses
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLLoaiThuoc.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLNCC.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmBanThuoc.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLThuoc.resources
+D:\DOANCACMONHOC\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmNhapHang.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csprojAssemblyReference.cache
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe.config
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmBanThuoc.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLLoaiThuoc.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmMain.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmLogin.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.Properties.Resources.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLNCC.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLNV.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLThuoc.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.GenerateResource.cache
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe.licenses
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.CoreCompileInputs.cache
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.pdb
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.exe.config
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.exe
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.pdb
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Build.Framework.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Build.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Collections.Immutable.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Memory.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Buffers.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\cs\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\de\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\en\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\es\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\fr\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\it\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ja\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ko\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\pl\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ru\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\tr\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.CopyComplete
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmThongkebanhang.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmThongkenhapthuoc.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmNhapthuoc.resources
+D:\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmTaikhoan.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.exe.config
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.exe
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\QuanLyTiemThuocTay.pdb
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.Build.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Memory.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\System.Buffers.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csprojAssemblyReference.cache
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe.config
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmBanThuoc.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLLoaiThuoc.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmMain.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmLogin.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmNhapthuoc.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.Properties.Resources.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLNCC.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLNV.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmQLThuoc.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmTaikhoan.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmThongkebanhang.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.frmThongkenhapthuoc.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.Thongtinthuoc.resources
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.GenerateResource.cache
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe.licenses
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.CoreCompileInputs.cache
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.csproj.CopyComplete
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.exe
+C:\Users\cn691\OneDrive\Máy tính\QuanLyTiemThuocTay\QuanLyTiemThuocTay\QuanLyTiemThuocTay\obj\Debug\QuanLyTiemThuocTay.pdb
